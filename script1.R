@@ -1,2 +1,2 @@
-print("theyoh")
-print("githun i am here")
+print("theyoh");
+print("githun i am here");
